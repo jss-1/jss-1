@@ -1,16 +1,28 @@
-## Hi there 👋
+Hi there, I'm Jugaad 👋
+I'm a Data Science enthusiast with a strong foundation in Mathematics, currently pursuing my Master's at the Chennai Mathematical Institute (CMI). My journey has taken me from the theoretical depths of a Mathematics (Hons) degree at the Indian Statistical Institute (ISI) to the practical world of business analytics, and now into the exciting field of data science.
 
-<!--
-**jss-1/jss-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about finding elegant solutions to complex problems and have a keen interest in performance optimization, particularly in using C to supercharge Python code.
 
-Here are some ideas to get you started:
+🚀 What I'm Up To
+🧠 Diving deep into advanced data science and machine learning concepts in my Master's program (2024-2026).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Exploring new ways to apply my background in mathematics and business analysis to build robust data models.
+
+🐍 Actively working on projects where I can optimize data-heavy Python applications.
+
+🤝 Open to collaborating on open-source projects related to data science, machine learning, or performance engineering.
+
+🏆 My Projects
+Here are a few projects I'm proud of. You can find more of my work in my repositories.
+
+♟️ Chess Engine: A fully functional chess engine built from scratch. It uses advanced algorithms like alpha-beta pruning and move ordering heuristics to play competitively. A great exercise in complex logic and AI.
+
+🚚 Vehicle Routing Problem (VRP) Solver: An optimization model designed to solve the classic VRP. It helps find the most efficient routes for a fleet of vehicles, a project that combines my interest in algorithms and real-world logistics.
+
+🍇 Climate Change & Wine Production: A data analysis project investigating the impact of climate change on grapevine yields and quality. This involves time-series analysis and predictive modeling to forecast future trends for viticulture.
+
+📊 My GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jss-1&show_icons=true&theme=radical" alt="Jugaad's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jss-1&layout=compact&theme=radical" alt="Top Languages" />
+</p>
