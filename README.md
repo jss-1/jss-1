@@ -23,6 +23,6 @@ Here are a few projects I'm proud of. You can find more of my work in my reposit
 
 📊 My GitHub Stats
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={jss-1}&theme={radical}" alt="Jugaad's GitHub Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jss-1&theme=radical" alt="Jugaad's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jss-1&layout=compact&theme=radical" alt="Top Languages" />
 </p>
