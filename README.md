@@ -18,7 +18,13 @@ Here are a few projects. You can find more of my work in my repositories.
 - 🍇 **Climate Change & Wine Production**: A data analysis project investigating the impact of climate change on grapevine yields and quality. This involves time-series analysis and predictive modeling to forecast future trends for viticulture.
 
 ### 📊 My GitHub Stats
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jss-1&theme=nord_dark" alt="Jugaad's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jss-1&layout=compact&theme=nord&hide=html" alt="Top Languages" />
-</p>
+<table>
+<tr>
+<td valign="top">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jss-1&theme=nord_dark" alt="Jugaad's Profile Summary" />
+</td>
+<td valign="top">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jss-1&layout=compact&theme=nord&hide=html" alt="Jugaad's Top Languages" />
+</td>
+</tr>
+</table>
