@@ -24,5 +24,5 @@ Here are a few projects You can find more of my work in my repositories.
 📊 My GitHub Stats
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jss-1&theme=nord_dark" alt="Jugaad's GitHub Stats" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jss-1&theme=nord_dark&exclude={exclude}" alt="Top Languages" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jss-1&theme=nord_dark&exclude=HTML" alt="Top Languages" />
 </p>
