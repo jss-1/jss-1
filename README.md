@@ -22,10 +22,10 @@ Here are a few projects. You can find more of my work in my repositories.
 <table>
 <tr>
 <td valign="top">
-  <img src="https://github-readme-stats.vercel.app/api?username=jss-1&show_icons=true&theme=nord&bg_color=transparent" alt="Jugaad's GitHub Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jss-1&theme=nord_dark" alt="Jugaad's Profile Summary" />
 </td>
 <td valign="top">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jss-1&layout=compact&theme=nord&hide=html&bg_color=transparent" alt="Jugaad's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jss-1&layout=compact&theme=nord&hide=html" alt="Jugaad's Top Languages" />
 </td>
 </tr>
 </table>
