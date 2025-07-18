@@ -19,7 +19,7 @@ Here are a few projects. You can find more of my work in my repositories.
 
 ### 📊 My GitHub Stats
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td valign="top">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jss-1&theme=nord_dark" alt="Jugaad's Profile Summary" />
